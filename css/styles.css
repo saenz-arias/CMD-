@@ -10623,6 +10623,32 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 /* SECCION PORTAFOLIO */
-.informacion-sitio{
+.work-box{
+  margin-bottom: 3rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: #fff;
+}
+.work-content{
   padding: 2rem 3% 1rem 4%;
+}
+.box-shadow, .paralax-mf, .service-box, .work-box, .card-blog {
+  box-shadow: 0 13px 8px -10px rgb(0 0 0 / 10%);
+}
+.w-title{
+  font-size: 24px;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+.work-img img {
+  transition: all 1s;
+}
+
+.fa-plus-circle{
+  font-size: 70px;
+  color: #CCED00;
+  background-color: white;
+  padding: 3px;
 }
