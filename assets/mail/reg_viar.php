@@ -25,7 +25,7 @@
 
    // PDO DB CONNECT
    $servername = "www.aula-ec.com";
-   $dbname = "aulaec_atomo";
+   $dbname = "aulaec_elemensoft";
    $username = "aulaec_aulaec";
    $password = "pasajero47";
 
