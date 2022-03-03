@@ -10143,7 +10143,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/portada-atomo.png");
+  background-image:url("../assets/img/portada-elemen2.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10744,5 +10744,31 @@ section#contact form#contactForm :-ms-input-placeholder {
   }
   #servicios{
     padding: 40px;
+  }
+
+  /* Whatsapp */
+  .whatsapp {
+    position:fixed;
+    width:70px;
+    height:70px;
+    bottom:20px;
+    right: 20px;
+    background-color:#25D366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:40px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
+  .whatsapp-icon:hover {
+    color: white;
+  }
+
+  .w-ctegory{
+    font-family:Arial, Helvetica, sans-serif;
   }
  
